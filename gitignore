@@ -1,0 +1,13 @@
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Logs and temp
+*.log
+*.tmp
+
+# Node / Python / etc (if you add projects later)
+node_modules/
+__pycache__/
+*.pyc
