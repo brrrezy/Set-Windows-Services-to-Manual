@@ -1,4 +1,4 @@
-# set_services_to_manual.bat
+# WinServiceTuner — Optimize Windows Services Safely
 
 **Note:** file name originally was `set_services_to_mannual.bat` (misspelling). Consider renaming to `set_services_to_manual.bat`.
 
